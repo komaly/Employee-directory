@@ -1,0 +1,24 @@
+.homeContentContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 70vh;
+    justify-content: center;
+}
+
+.searchBarContainer {
+    margin-right: 20px;
+}
+
+.searchBar {
+    font-size: 40px;
+    min-width: 1000px;
+    height: 50px;
+    padding-left: 10px;
+    color: black;
+    border: 1px solid #0072bc;
+}
+
+.errorText {
+    margin-top: 10px;
+}

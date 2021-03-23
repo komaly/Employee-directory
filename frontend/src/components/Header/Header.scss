@@ -1,0 +1,27 @@
+header {
+    width: 100%;
+    height: 100px;
+    background-color: #0072bc;
+    color: white;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.titleContainer {
+    margin: 0 auto;
+    width: 1800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.titleStyle {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.linkStyle {
+    text-decoration: underline;
+    cursor: pointer;
+    margin-right: 10px;
+}

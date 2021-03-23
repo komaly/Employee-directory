@@ -1,0 +1,76 @@
+.errorText {
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.successText {
+    color: green;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.noEmployeeResultsText {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.noEmployeeResultsContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.centeredRow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.gray {
+    color: gray;
+}
+
+.black {
+    color: black;
+}
+
+.inputLabel {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.input {
+    height: 50px;
+    font-size: 25px;
+    padding-left: 10px;
+    max-width: 500px;
+    border: 1px solid gray;
+}
+
+.whiteBackground {
+    background-color: white;
+}
+
+.lightGrayBackground {
+    background-color: #d3d3d3;
+}
+
+.centeredContent {
+    margin: 0 auto;
+}
+
+.hideDisplay {
+    display: none;
+}
