@@ -2,6 +2,14 @@
 
 This project emulates an employee directory where the user can add, edit, delete, or search for employees.
 
+## Prerequisites
+
+[Docker](https://docs.docker.com/get-docker/)
+
+[Docker-compose](https://docs.docker.com/compose/install/#install-compose)
+
+[Python (optional)](https://www.python.org/downloads/)
+
 ## Set up
 
 To set up the development environment run the following command from the project directory:
